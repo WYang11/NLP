@@ -528,7 +528,8 @@ print(torchtext.__version__)
 
 实验环境
 
-![image-20240623143608781](/Users/wangyang/Library/Application Support/typora-user-images/image-20240623143608781.png)
+<img width="1150" alt="image" src="https://github.com/WYang11/NLP/assets/153475239/0edd98e0-2fe8-46cc-8ff2-5de1b7c7e2d4">
+
 
 ```python
 import math
