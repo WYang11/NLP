@@ -528,8 +528,7 @@ print(torchtext.__version__)
 
 实验环境
 
-<img width="1150" alt="image" src="https://github.com/WYang11/NLP/assets/153475239/0edd98e0-2fe8-46cc-8ff2-5de1b7c7e2d4">
-
+![image-20240623143608781](/Users/wangyang/Library/Application Support/typora-user-images/image-20240623143608781.png)
 
 ```python
 import math
@@ -1063,82 +1062,82 @@ for epoch in tqdm.tqdm(range(1, NUM_EPOCHS+1)):
       warnings.warn(
       6%|▋         | 1/16 [06:26<1:36:32, 386.20s/it]
     
-    Epoch: 1, Train loss: 0.088, Epoch time = 386.195s
+    Epoch: 1, Train loss: 5.088, Epoch time = 386.195s
 
 
      12%|█▎        | 2/16 [12:56<1:30:38, 388.47s/it]
     
-    Epoch: 2, Train loss: 0.069, Epoch time = 390.053s
+    Epoch: 2, Train loss: 5.069, Epoch time = 390.053s
 
 
      19%|█▉        | 3/16 [19:26<1:24:19, 389.21s/it]
     
-    Epoch: 3, Train loss: 0.068, Epoch time = 390.090s
+    Epoch: 3, Train loss: 5.068, Epoch time = 390.090s
 
 
      25%|██▌       | 4/16 [25:54<1:17:46, 388.89s/it]
     
-    Epoch: 4, Train loss: 0.068, Epoch time = 388.397s
+    Epoch: 4, Train loss: 4.468, Epoch time = 388.397s
 
 
      31%|███▏      | 5/16 [32:21<1:11:08, 388.03s/it]
     
-    Epoch: 5, Train loss: 0.068, Epoch time = 386.505s
+    Epoch: 5, Train loss: 4.268, Epoch time = 386.505s
 
 
      38%|███▊      | 6/16 [38:45<1:04:28, 386.82s/it]
     
-    Epoch: 6, Train loss: 0.068, Epoch time = 384.463s
+    Epoch: 6, Train loss: 3.734, Epoch time = 384.463s
 
 
      44%|████▍     | 7/16 [45:13<58:03, 387.08s/it]  
     
-    Epoch: 7, Train loss: 0.068, Epoch time = 387.606s
+    Epoch: 7, Train loss: 4.025, Epoch time = 387.606s
 
 
      50%|█████     | 8/16 [51:40<51:37, 387.17s/it]
     
-    Epoch: 8, Train loss: 0.068, Epoch time = 387.375s
+    Epoch: 8, Train loss: 3.937, Epoch time = 387.375s
 
 
      56%|█████▋    | 9/16 [58:08<45:12, 387.51s/it]
     
-    Epoch: 9, Train loss: 0.068, Epoch time = 388.239s
+    Epoch: 9, Train loss: 3.868, Epoch time = 388.239s
 
 
      62%|██████▎   | 10/16 [1:04:37<38:46, 387.78s/it]
     
-    Epoch: 10, Train loss: 0.068, Epoch time = 388.387s
+    Epoch: 10, Train loss: 3.729, Epoch time = 388.387s
 
 
      69%|██████▉   | 11/16 [1:08:44<28:43, 344.61s/it]
     
-    Epoch: 11, Train loss: 0.068, Epoch time = 246.728s
+    Epoch: 11, Train loss: 3.662, Epoch time = 246.728s
 
 
      75%|███████▌  | 12/16 [1:12:17<20:19, 304.76s/it]
     
-    Epoch: 12, Train loss: 0.068, Epoch time = 213.606s
+    Epoch: 12, Train loss: 3.436, Epoch time = 213.606s
 
 
      81%|████████▏ | 13/16 [1:15:49<13:50, 276.73s/it]
     
-    Epoch: 13, Train loss: 0.068, Epoch time = 212.219s
+    Epoch: 13, Train loss: 3.325, Epoch time = 212.219s
 
 
      88%|████████▊ | 14/16 [1:19:22<08:34, 257.50s/it]
     
-    Epoch: 14, Train loss: 0.068, Epoch time = 213.063s
+    Epoch: 14, Train loss: 3.298, Epoch time = 213.063s
 
 
      94%|█████████▍| 15/16 [1:22:55<04:03, 243.91s/it]
     
-    Epoch: 15, Train loss: 0.068, Epoch time = 212.429s
+    Epoch: 15, Train loss: 3.276, Epoch time = 212.429s
 
 
     100%|██████████| 16/16 [1:26:29<00:00, 324.33s/it]
     
-    Epoch: 16, Train loss: 0.068, Epoch time = 213.948s
+    Epoch: 16, Train loss: 3.229, Epoch time = 213.948s
 
 
 ​    
@@ -1204,7 +1203,7 @@ translate(transformer, "HSコード 8515 はんだ付け用、ろう付け用又
 
 
 
-    ' <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>'
+    '_H S 用 于 _85 15_ 焊 、焊 接 设 备 、焊 接 电 气 式 （ 包 括 电 气 加 热 ) 。'
 
 
 
